@@ -43,12 +43,12 @@ Its very easy to use **ProgressButton** as its a custom button and contain all f
             android:paddingRight="10dp"
             android:text="Hello World!"
             android:textColor="@color/white"
-            app:lb_buttonColor="@color/colorPrimary"
-            app:lb_isShadowEnable="true"
-            app:lb_isCircular="true"
-            app:lb_loaderColor="@color/colorAccent"
-            app:lb_shadowColor="@color/colorPrimaryDark"
-            app:lb_shadowHeight="5dp" />
+            app:pb_buttonColor="@color/colorPrimary"
+            app:pb_isShadowEnable="true"
+            app:pb_isCircular="true"
+            app:pb_loaderColor="@color/colorAccent"
+            app:pb_shadowColor="@color/colorPrimaryDark"
+            app:pb_shadowHeight="5dp" />
        ...
 </layout>
 ```
