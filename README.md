@@ -69,3 +69,7 @@ Its very easy to use **ProgressButton** as its a custom button and contain all f
    `ProgressButton progressButton = (ProgressButton) findViewById(R.id.progressButton);
     progressButton.hideLoading();
     `
+    
+## Bugs and Feedback
+
+For bugs, feature requests, and discussion please use [GitHub Issues](https://github.com/FarhamHosseini/ProgressButton/issues).
