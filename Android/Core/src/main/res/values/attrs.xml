@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="ProgressButton">
+    <attr name="pb_buttonColor" format="color" />
+    <attr name="pb_loaderColor" format="color" />
+    <attr name="pb_shadowColor" format="color" />
+    <attr name="pb_cornerRadius" format="dimension" />
+    <attr name="pb_shadowHeight" format="dimension" />
+    <attr name="pb_loaderWidth" format="dimension" />
+    <attr name="pb_loaderMargin" format="dimension" />
+    <attr name="pb_isShadowEnable" format="boolean" />
+    <attr name="pb_isCircular" format="boolean" />
+    <attr name="pb_isLoading" format="boolean" />
+  </declare-styleable>
+</resources>
